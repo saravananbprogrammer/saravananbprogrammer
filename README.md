@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saravananbprogrammer  
-- 💻 Full Stack Web Developer | Backend Specialist (Spring Boot & Django) | Problem Solver | DevOps Enthusiast | Tech Explorer  
+- 💻 Full Stack Web Developer | Backend Specialist (Java Spring Boot & Python Django) | Problem Solver | DevOps Enthusiast | Tech Explorer  
 - 👀 I’m passionate about building full-stack web and mobile applications with modern technologies.  
-- 🌱 Currently focusing on Django and Spring Boot for advanced backend development.  
-- 🧠 Skilled in MERN stack, Python, C++, Express.js, and cross-platform mobile development.  
+- 🌱 Currently focusing on advanced backend development with Django and Spring Boot.  
+- 🧠 Skilled in backend development (Java Spring Boot, Python Django), MERN stack, C++, Express.js, and cross-platform mobile development.  
 - 🤝 Open to collaborations on innovative projects, startups, and open-source contributions.  
 - 📫 Reach me:  
   - 📧 saravanan.devpro@gmail.com  
