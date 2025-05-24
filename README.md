@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @saravananbprogrammer  
-- 👀 I’m a full-stack developer and mobile app developer passionate about exploring innovative tech solutions.  
-- 🌱 I’m currently mastering Django for backend development, having already mastered the MERN stack, and I specialize in Python, C++, and Express for backend development.  
-- 💞️ I’m looking to collaborate on challenging tech projects, startups, or open-source contributions.  
-- 📫 How to reach me:  
-  - saravanan.devpro@gmail.com  
-  - saravanan.bprogrammer@gmail.com  
-  - [LinkedIn](https://www.linkedin.com/in/saravanan-b-b20673296)  
-- 🎯 Trivia: I’m a black belt in karate, a music composer, and a programming enthusiast who loves creating innovative solutions!  
-- 😄 Pronouns: He/Him  
+- 💻 Full Stack Web Developer | Backend Specialist (Spring Boot & Django) | Problem Solver | DevOps Enthusiast | Tech Explorer  
+- 👀 I’m passionate about building full-stack web and mobile applications with modern technologies.  
+- 🌱 Currently focusing on Django and Spring Boot for advanced backend development.  
+- 🧠 Skilled in MERN stack, Python, C++, Express.js, and cross-platform mobile development.  
+- 🤝 Open to collaborations on innovative projects, startups, and open-source contributions.  
+- 📫 Reach me:  
+  - 📧 saravanan.devpro@gmail.com  
+  - 📧 saravanan.bprogrammer@gmail.com  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/saravanan-b-b20673296)  
+- 🎯 Fun Fact: I’m a black belt in karate, a music composer, and a passionate coder who loves solving real-world problems.  
+- 😄 Pronouns: He/Him
