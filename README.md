@@ -8,5 +8,7 @@
   - 📧 saravanan.devpro@gmail.com  
   - 📧 saravanan.bprogrammer@gmail.com  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/saravanan-b-b20673296)  
+  - 💻 [LeetCode](https://leetcode.com/Saravanan_b_SB)  
+  - ▶️ [YouTube - SBLogics Official](https://youtube.com/@sblogics-official)  
 - 🎯 Fun Fact: I’m a black belt in karate, a music composer, and a passionate coder who loves solving real-world problems.  
 - 😄 Pronouns: He/Him
